@@ -12,4 +12,6 @@ A Python-based tool for visualizing the performance of investment portfolios bui
 - Put-Call Parity Modeling: Evaluate implied volatility assumptions and arbitrage opportunities.
 - Risk Metrics: Add Sharpe ratio, drawdown, and volatility overlays.
 - Interactive Dashboard: Explore portfolio outcomes dynamically via a web interface.
+
+Attatched is an example exerpt that shows a permutation of two or less combinations of portfolios with their percentage annualized returns on the y-axis and time on the x-axis over a four year period.
 ![WhatsApp Image 2025-11-18 at 20 14 44_67d0e82c](https://github.com/user-attachments/assets/3ecafdfd-dfb2-4da5-9027-267a0e1b5e41)
